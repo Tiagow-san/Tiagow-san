@@ -2,9 +2,6 @@
 
 ---
 
-
-### Yo 😎🖖
-
 - 🏫 Imma student of System Analisys in Estácio de Sá University
 - 👨‍💻 Currently working on JavaScript, HTML, CSS and Python
 - 🎯 Aiming to become a fullstack web developer
