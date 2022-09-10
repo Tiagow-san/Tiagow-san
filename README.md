@@ -2,7 +2,7 @@
 
 ---
 
-- 🏫 Imma student of Analysis and Development of Systems in Estácio de Sá University
+- 🏫 I'm a student of Analysis and Development of Systems in Estácio de Sá University
 - 👨‍💻 Currently working on JavaScript, HTML, CSS and Python
 - 🎯 Aiming to become a full stack web developer
 - 📚 Addicted in reading books
