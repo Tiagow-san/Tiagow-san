@@ -4,7 +4,7 @@
 - 🏫 I'm a student of Analysis and Development of Systems in Estácio de Sá University
 - 👨‍💻 Currently working on JavaScript, HTML, CSS and Python
 - 🎯 Aiming to become a full stack web developer
-- 📚 Addicted in reading books
+- 📚 Addicted in reading books and learning.
 ---
 
 <div align="center">
