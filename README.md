@@ -1,18 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=500&color=34DC46&center=true&width=1000&lines=Hello+there,+I'm+Tiago!)](https://git.io/typing-svg)
 
 ---
-
 - 🏫 I'm a student of Analysis and Development of Systems in Estácio de Sá University
 - 👨‍💻 Currently working on JavaScript, HTML, CSS and Python
 - 🎯 Aiming to become a full stack web developer
 - 📚 Addicted in reading books
-
 ---
 
 <div align="center">
   <a href="https://github.com/Tiagow-san">
   <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=Tiagow-san&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <!--<img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagow-san&layout=compact&langs_count=7&theme=chartreuse-dark"/>-->
+<a href='https://postimg.cc/LgsdKBx2' target='_blank'><img src='https://i.postimg.cc/LgsdKBx2/manki.gif' border='0' align=right alt='manki'/></a>
 </div>
 
 ---
