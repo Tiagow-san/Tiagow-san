@@ -4,14 +4,14 @@
 - 🏫 I'm a student of Analysis and Development of Systems in Estácio de Sá University
 - 👨‍💻 Currently working on JavaScript
 - 🎯 Aiming to become a full stack web developer
-- 📚 Addicted in reading books and learning
+- 📚 Addicted in reading books and learning things
 ---
 
 <div align="center">
   <a href="https://github.com/Tiagow-san">
   <img height="190em" width="50%"  src="https://github-readme-stats.vercel.app/api?username=Tiagow-san&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 <!--<img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagow-san&layout=compact&langs_count=7&theme=chartreuse-dark"/>-->
-<a href='https://postimg.cc/LgsdKBx2' target='_blank'><img src='https://i.postimg.cc/LgsdKBx2/manki.gif' height="180em" width="180em" align=right  alt='manki' /></a>
+<a href='https://postimg.cc/LgsdKBx2' target='_blank'> Literally me <img src='https://i.postimg.cc/LgsdKBx2/manki.gif' height="180em" width="180em" align=right  alt='manki' /></a>
 
 </div>
 
