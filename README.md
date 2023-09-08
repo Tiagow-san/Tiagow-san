@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=4000&pause=500&color=16D21B&center=true&width=1000&lines=Hello+there.+I'm+Tiago!;I'm+a+programming+student)](https://git.io/typing-svg)
 ---
-- 🏫 I'm a student of Analysis and Development of Systems in Estácio de Sá University
+- 🏫 I'm a undergrad student of Analysis and Development of Systems
 - 👨‍💻 Currently working on HTML, CSS and JavaScript
 - 🎯 Aiming to become a full stack web developer
 - 📚 Addicted in reading books and learning things
